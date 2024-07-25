@@ -6,3 +6,7 @@ Este es un pryecto hecho en React.js que permite conectarse a la API provista pa
 
 - Alexys Lozada
 -Beto Quiroga
+
+## Auspiciadores
+
+- EDteam
